@@ -12,4 +12,3 @@ def draw_graph(data):
 		graph.edge(vertex2, vertex1, edge)
 
 	graph.render('graph', view=True, format='svg')
-#Komentarz
